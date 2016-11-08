@@ -1,2 +1,2 @@
-## A MVC boilerplate written in php
+## A PHP MVC boilerplate
 
